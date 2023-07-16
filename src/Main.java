@@ -4,10 +4,24 @@ public class Main {
     public static void main(String[] args) {
         // Press Alt+Eingabe with your caret at the highlighted text to see how
         // IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello and welcome!");
+        System.out.print ("Hello and welcome!");
+
+        int [] f = new int[11];
+        for (int i = 0; i < f.length; i++) {
+           f[i] = i;
+        }
+
+        for (int x:f) {
+            System.out.println(x);
+        }
+
+
+
+
+
 
 
     }
-    }
+}
 
 

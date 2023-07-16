@@ -1,4 +1,4 @@
-package homeWork21.exercise2;
+package Lesson21.exercise2;
 
 import java.util.Locale;
 import java.util.Random;
