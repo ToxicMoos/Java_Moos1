@@ -22,7 +22,7 @@ public class GenericMethods {
 
             //methods
               public void info(){
-                  System.out.println("Fun");
+                  System.out.println("FunRemove");
               }
 
 }
