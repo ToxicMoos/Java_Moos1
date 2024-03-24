@@ -15,3 +15,14 @@ public class Dog extends Pets {
       System.out.println(" " +type+" "+name+" goes for a walk outside!");
   }
 }
+//A new attempt to commit the tabs from the terminal we are trying until it will get to work fine
+//A new attempt to commit the tabs from the terminal we are trying until it will get to work fine
+//A new attempt to commit the tabs from the terminal we are trying until it will get to work fine
+//A new attempt to commit the tabs from the terminal we are trying until it will get to work fine
+//A new attempt to commit the tabs from the terminal we are trying until it will get to work fine
+//A new attempt to commit the tabs from the terminal we are trying until it will get to work fine
+//A new attempt to commit the tabs from the terminal we are trying until it will get to work fine
+//A new attempt to commit the tabs from the terminal we are trying until it will get to work fine
+//A new attempt to commit the tabs from the terminal we are trying until it will get to work fine
+//A new attempt to commit the tabs from the terminal we are trying until it will get to work fine
+//A new attempt to commit the tabs from the terminal we are trying until it will get to work fine
